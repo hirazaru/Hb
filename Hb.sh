@@ -54,7 +54,7 @@ EOL
 echo "Hardhat configuration completed."
 
 # Create Hello_swtr.sol contract
-echo "Creating Hello_swtr.sol contract..."
+echo "Creating Hello_swtr.sol ract..."
 mkdir -p contracts
 cat <<EOL > contracts/Hello_swtr.sol
 // SPDX-License-Identifier: UNLICENSED
